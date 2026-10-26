@@ -27,6 +27,7 @@
 - [Code_Aster](https://www.code-aster.org/) - Advanced structural mechanics and non-linear analysis solver by EDF.
 - [SfePy](https://sfepy.org/) - Simple Finite Elements in Python for solving coupled PDEs.
 - [FEniCS](https://fenicsproject.org/) - High-performance automated solution of differential equations.
+- [AgentFEM](https://github.com/haoming-luo/agentfem) - Python finite-element workflows on FEniCSx/PETSc, with shared modeling and result tools for researchers and AI agents.
 - [FreeCAD FEM](https://wiki.freecad.org/FEM_Workbench) - Integrated FEA workbench using CalculiX and Gmsh.
 
 ---
