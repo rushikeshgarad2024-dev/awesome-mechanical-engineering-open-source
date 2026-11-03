@@ -37,6 +37,7 @@
 - [SU2](https://su2code.github.io/) - Open-source suite for multiphysics simulation and aerodynamic shape optimization.
 - [PyFR](http://www.pyfr.org/) - High-order CFD solver for Navier-Stokes on GPUs and clusters.
 - [DualSPHysics](https://dual.sphysics.org/) - Smoothed Particle Hydrodynamics (SPH) solver for free-surface fluid flows.
+- [OpenFLUME](https://github.com/OpenFLUME/OpenFLUME) - Thermo-fluid network solver (GFSSP / SINDA-FLUINT class) for steady and transient pipe flow, heat transfer, and two-phase systems; use it from a no-install browser UI or from Python (`pip install openflume`).
 
 ---
 
